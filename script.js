@@ -22,4 +22,16 @@ let pastAge = age - years;
 console.log(`Acum ${years} ani avem varsta de ${pastAge}`);
 console.log(`Acum ${years} ani aveam varsta de ${age-years}`);
 
+// inmultire
+let numberA = 5;
+let numberB = 10;
+let multiplyResult = numberA * numberB;
+console.log(`${numberA} inmultit cu ${numberB} da ${multiplyResult}`);
+
+// impartirea
+let numberC = 25;
+let numberD = 10;
+let divisionResult = numberC / numberD;
+console.log(divisionResult);
+
 
